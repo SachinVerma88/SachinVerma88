@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachinverma88" alt="sachinverma88" /></a> </p>
 
-- 🔭 I’m currently working on **AI LMS Platform**
+- 🔭 I’m currently working as a **Software Developer At togetherVsolve**
 
 - 🌱 Leveling Up With: **Frameworks, libraries & tools like Next.js, TypeScript, Tailwind, and some fun courses on Frontend**
 
